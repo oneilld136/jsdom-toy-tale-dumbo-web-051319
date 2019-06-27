@@ -47,6 +47,17 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+
+    {
+      "name": "flight attendant barbie",
+      "image": "https://imgs.michaels.com/MAM/assets/1/3C806BFAE43F48829D51D9995CDC917A/img/C23856C7421E4FE2808D513313DD6DCB/10578968_1.jpg?fit=inside|540:540",
+      "id": 17
+    },
+    {
+      "name": "dog walking barbie",
+      "image": "https://i5.walmartimages.com/asr/b96c480f-37da-4999-9e09-6b8139cb5891_1.599c9cb7073cdf730d0e6506cc4a099d.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+      "id": 18
     }
   ]
 }
